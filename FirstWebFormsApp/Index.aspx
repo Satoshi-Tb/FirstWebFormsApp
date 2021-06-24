@@ -13,7 +13,7 @@
         <div>
             <asp:Label runat="server" ID="lblHello" Text="何か入力してください：" />
             <asp:TextBox runat="server" ID="txtInput" ></asp:TextBox>
-            <asp:Button runat="server" ID="btnPost" Text="POSTします" />
+            <asp:Button runat="server" ID="btnPost" Text="POST!" />
             <br />
             <asp:Label runat="server" ID="lblInputText"/>
         </div>
